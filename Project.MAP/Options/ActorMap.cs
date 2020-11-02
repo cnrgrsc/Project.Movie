@@ -9,5 +9,9 @@ namespace Project.MAP.Options
 {
     public class ActorMap:BaseMap<Actor>
     {
+        public ActorMap()
+        {
+
+        }
     }
 }
